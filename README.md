@@ -29,30 +29,7 @@ A comprehensive guide to Python data types with a focus on IoT applications. Thi
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🔧 Installation
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip package manager
-
-### Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/python-types-iot.git
-   cd python-types-iot
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or install IoT-specific libraries manually:
-   ```bash
-   pip install paho-mqtt numpy pandas
-   ```
+link : https://www.youtube.com/watch?v=v8veitfmmDolist=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s&index=6
 
 ## 🚀 Quick Start
 
