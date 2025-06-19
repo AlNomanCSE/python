@@ -5,7 +5,8 @@ sensor_reading = [23.5, 24.1, 22.8, 25.0];
 
 sensor_reading.append(26.200);
 sensor_reading.extend([30.2,35.7]);
-print(f"{sensor_reading}");
+x = [23.5, 24.1, 22.8, 25.0] + [30.2,35.7];
+print(f"here is X :{x}");
 
 sensor_reading.pop();
 print(f"{sensor_reading}");
@@ -64,3 +65,5 @@ sensor_grid = [
 ]
 sensor_grid.append([23.5, 24.1, 22.8, 25.0]);
 print(sensor_grid);
+print(sensor_grid.index([25.0, 26.2, 24.9]));
+print(x[:3]);
