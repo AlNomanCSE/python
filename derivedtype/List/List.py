@@ -67,3 +67,6 @@ sensor_grid.append([23.5, 24.1, 22.8, 25.0]);
 print(sensor_grid);
 print(sensor_grid.index([25.0, 26.2, 24.9]));
 print(x[:3]);
+
+sensor_grid.clear()
+print(sensor_grid)
