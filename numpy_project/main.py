@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # type: ignore
 
 new_list1 = list([x for x in range(1, 6)])
 new_list2 = list([x for x in range(6, 11)])
