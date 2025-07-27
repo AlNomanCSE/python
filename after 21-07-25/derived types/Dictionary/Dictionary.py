@@ -3,4 +3,6 @@ letter_pairs = dict(pairs)
 print(letter_pairs)
 
 squire_pairs = {x: x**2 for x in range(0, 11)}
-print(squire_pairs)
+new_dictionary = {**pairs}
+
+print(new_dictionary)

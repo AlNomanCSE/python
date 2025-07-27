@@ -6,6 +6,6 @@ numbers = range(-5, 6)
 positive_squire = [x**2 for x in numbers if x > 2]
 print(positive_squire)
 
-
+new_list = [**temperatures_f]
 Mylist = [x for x in range(1, 11)]
 print(Mylist)
